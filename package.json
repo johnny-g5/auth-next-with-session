@@ -1,7 +1,7 @@
 {
   "name": "@nuxtjs/auth-next-with-session",
   "version": "1.0.1",
-  "description": "Authentication module for Nuxt.js",
+  "description": "Authentication module for Nuxt.js with session",
   "repository": "nuxt-community/auth-module",
   "license": "MIT",
   "sideEffects": "false",
